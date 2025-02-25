@@ -6,18 +6,11 @@
 
 ## CLANKI ASDF System Details
 
-* Version: 0.1.0
-
 * Description: A core of the Clanki app - a Common Lisp clone of the Anki, created to demonstrate different `GUI` frameworks.
-
 * Licence: Unlicense
-
 * Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
-
 * Homepage: [https://40ants.com/clanki/][c20d]
-
 * Bug tracker: [https://github.com/common-lisp-gui-example/clanki-core/issues][45a1]
-
 * Source control: [GIT][aa79]
 
 [![](https://github-actions.40ants.com/common-lisp-gui-example/clanki-core/matrix.svg?only=ci.run-tests)][ee37]
